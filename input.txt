@@ -1,0 +1,6 @@
+createItem Milk Amul 25
+addInventory Milk Amul 10
+addUser deepanshu 5000
+addToCart deepanshu Milk Amul 10
+getCart deepanshu
+exit
